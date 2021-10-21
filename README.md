@@ -4,7 +4,7 @@
 Predict whether patient has diabete based on their health status.
 
 ## Project flow
-- Data clean up and transformation
+- Data clean up and transformation (e.g. log transformation)
 - model development and evaluation
 
 ## Kaggle competetion
