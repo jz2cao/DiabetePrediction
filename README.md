@@ -1,4 +1,4 @@
-# DiabetePrediction
+# DiabetesPrediction
 
 ## Objectives
 Predict whether patient has diabete based on their health status.
